@@ -1,4 +1,4 @@
-# GHVFDT_GHRSS
+# GHVFDT_pipeline
 
 The GH-VFDT pipieline can be run only from inside the folder. 
 
